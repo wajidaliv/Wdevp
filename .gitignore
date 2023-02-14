@@ -1,2 +1,4 @@
 *.py
 !wajid.py
+
+[wajid]*.py
